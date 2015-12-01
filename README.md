@@ -4,7 +4,7 @@ Espruino: Driving a steppermotor via the inexpensive EasyDrive H-bridge
 
 USAGE: ------------------------------------------------------------
 
-    easyDrive("C6","C5",1); 
+    easyDrive("C6","C7",1); 
     
-    easyDrive("C6","C5",-0.5); // Half turn in reverse
+    easyDrive("C6","C7",-0.5); // Half turn in reverse
     
