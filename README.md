@@ -1,5 +1,5 @@
 # Espruino Easydrive H-bridge
-Espruino: Driving a steppermotor via the inexpensive EasyDrive H-bridge
+Espruino: Driving a stepper motor via the inexpensive EasyDrive H-bridge
 (https://www.sparkfun.com/products/12779=
 
 USAGE: ------------------------------------------------------------
